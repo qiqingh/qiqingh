@@ -1,11 +1,13 @@
 # Qiqing Huang
 
-**Cellular and baseband security research** — over-the-air attacks against 4G/5G systems, carried from protocol analysis through vendor remediation and standards-body action.
+**Vulnerability research** — finding and reporting memory-safety and protocol flaws in firmware, network protocols, and systems software, carried from analysis through vendor remediation and standards-body action.
+
+Deepest work to date is on cellular: over-the-air attacks against 4G/5G basebands and base stations.
 
 Ph.D. in Computer Science and Engineering, **University at Buffalo (SUNY)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-qiqing--huang-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/qiqing-huang)
-![Focus](https://img.shields.io/badge/focus-baseband%20%7C%205G%20RRC%20%7C%20firmware%20RE-1f6feb?style=flat)
+![Focus](https://img.shields.io/badge/focus-vulnerability%20research%20%7C%20firmware%20RE%20%7C%20protocols-1f6feb?style=flat)
 ![CVEs](https://img.shields.io/badge/published%20CVEs-10-brightgreen?style=flat)
 
 ---
@@ -83,7 +85,7 @@ Over-the-air vulnerabilities in commercial 5G basebands, LTE base stations, and 
 
 ## 🔧 Interests
 
-Baseband and cellular protocol security · over-the-air fuzzing · firmware reverse engineering · ASN.1/UPER and specification–implementation gap analysis · LLM-assisted vulnerability discovery
+Firmware and binary reverse engineering · protocol security and stateful fuzzing · specification–implementation gap analysis · memory safety in native code · OS and systems security · LLM-assisted vulnerability discovery
 
 **Certifications:** OSCP · CEH · Security+
 
