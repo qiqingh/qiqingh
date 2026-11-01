@@ -53,7 +53,7 @@ Over-the-air vulnerabilities in commercial 5G basebands, LTE base stations, and 
 |---|---|---|---|
 | CVE-2026-55306 | Samsung Shannon baseband — Google Pixel 8a | 🔴 **Critical** *(Google Android Security Team)* | Assigned; pending public disclosure |
 | CVE-2026-56990 | Samsung Shannon baseband — Google Pixel 8a | 🟠 **High** *(Google Android Security Team)* | Assigned; pending public disclosure |
-| [CVE-2026-96274](https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-04) | Baicells Nova 430H eNodeB — **LTE base station** | 🟠 **8.3 High** *(CISA, CVSS v4.0; v3.1 7.4)* | CISA advisory **ICSA-26-272-04**, Sep 2026 · CWE-248 — *"Qiqing Huang reported this vulnerability to CISA."* |
+| [CVE-2026-96274](https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-04) | Baicells Nova 430H eNodeB — **LTE base station** | 🟠 **8.3 High** *(CISA, CVSS v4.0; v3.1 7.4)* | CISA advisory **ICSA-26-272-04**, Sep 2026 · CWE-248 |
 | [CVE-2026-20527](https://nvd.nist.gov/vuln/detail/CVE-2026-20527) | MediaTek 5G baseband — modem | 🟠 **High** *(MediaTek PSB)* | Oct 2026 · CWE-129 improper array index validation · **57 chipsets** |
 | [CVE-2026-20504](https://nvd.nist.gov/vuln/detail/CVE-2026-20504) | MediaTek 5G baseband — modem | 🟠 **High** *(MediaTek PSB)* | Sep 2026 · CWE-617 reachable assertion · 19 chipsets |
 | [CVE-2026-20503](https://nvd.nist.gov/vuln/detail/CVE-2026-20503) | MediaTek 5G baseband — modem | 🟠 **High** *(MediaTek PSB)* | Sep 2026 · CWE-617 reachable assertion · **57 chipsets** |
