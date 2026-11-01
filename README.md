@@ -16,13 +16,12 @@ Ph.D. in Computer Science and Engineering, **University at Buffalo (SUNY)**
 - **Correct in Isolation, Broken in Translation: Exploiting Cross-Schema Vulnerabilities in LTE and 5G Base Stations**
   Qiqing Huang, Xingyu Wang, Xiaofeng Chen, Hongxin Hu
   *IEEE Symposium on Security and Privacy (**S&P 2027**), Montreal* — **first author**
-  [![PDF](https://img.shields.io/badge/PDF-b31b1b?style=flat-square)](https://cse.buffalo.edu/~hongxinh/papers/SP2027A.pdf)
 
 - **Semantics Over Syntax: Uncovering Pre-Authentication 5G Baseband Vulnerabilities**
   Qiqing Huang, Xingyu Wang, Wanda Guo, Guofei Gu, Hongxin Hu
   *35th **USENIX Security Symposium** (2026), Baltimore* — **first author**
   🏅 Artifact Evaluation: **Available · Functional · Reproduced**
-  [![USENIX](https://img.shields.io/badge/USENIX-990000?style=flat-square)](https://www.usenix.org/conference/usenixsecurity26/presentation/huang-qiqing) [![arXiv](https://img.shields.io/badge/arXiv-2604.04283-b31b1b?style=flat-square)](https://arxiv.org/abs/2604.04283) [![PDF](https://img.shields.io/badge/PDF-333333?style=flat-square)](https://cse.buffalo.edu/~hongxinh/papers/USENIX2026A.pdf)
+  [![USENIX](https://img.shields.io/badge/USENIX-990000?style=flat-square)](https://www.usenix.org/conference/usenixsecurity26/presentation/huang-qiqing) [![arXiv](https://img.shields.io/badge/arXiv-2604.04283-b31b1b?style=flat-square)](https://arxiv.org/abs/2604.04283) [![Artifact](https://img.shields.io/badge/Artifact-Zenodo-1682D4?style=flat-square)](https://doi.org/10.5281/zenodo.18424200)
 
 - **Towards LLM-Assisted Vulnerability Detection and Repair for Open-Source 5G UE Implementations**
   Qiqing Huang\*, Rupam Patir\*, Keyan Guo, Wanda Guo, Guofei Gu, Haipeng Cai, Hongxin Hu
