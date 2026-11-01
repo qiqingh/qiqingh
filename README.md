@@ -14,29 +14,33 @@ Ph.D. in Computer Science and Engineering, **University at Buffalo (SUNY)**
 ## 📄 Publications
 
 - **Correct in Isolation, Broken in Translation: Exploiting Cross-Schema Vulnerabilities in LTE and 5G Base Stations**
-  *IEEE Symposium on Security and Privacy (S&P), 2027* — **first author**
   Qiqing Huang, Xingyu Wang, Xiaofeng Chen, Hongxin Hu
+  *IEEE Symposium on Security and Privacy (**S&P 2027**), Montreal* — **first author**
+  [![PDF](https://img.shields.io/badge/PDF-b31b1b?style=flat-square)](https://cse.buffalo.edu/~hongxinh/papers/SP2027A.pdf)
 
 - **Semantics Over Syntax: Uncovering Pre-Authentication 5G Baseband Vulnerabilities**
-  *USENIX Security Symposium, 2026* — **first author**
-  🏅 Artifact Evaluation: **Available · Functional · Reproduced** (all three badges)
   Qiqing Huang, Xingyu Wang, Wanda Guo, Guofei Gu, Hongxin Hu
+  *35th **USENIX Security Symposium** (2026), Baltimore* — **first author**
+  🏅 Artifact Evaluation: **Available · Functional · Reproduced**
+  [![USENIX](https://img.shields.io/badge/USENIX-990000?style=flat-square)](https://www.usenix.org/conference/usenixsecurity26/presentation/huang-qiqing) [![arXiv](https://img.shields.io/badge/arXiv-2604.04283-b31b1b?style=flat-square)](https://arxiv.org/abs/2604.04283) [![PDF](https://img.shields.io/badge/PDF-333333?style=flat-square)](https://cse.buffalo.edu/~hongxinh/papers/USENIX2026A.pdf)
 
 - **Towards LLM-Assisted Vulnerability Detection and Repair for Open-Source 5G UE Implementations**
-  *FutureG Workshop, NDSS, 2025*
   Qiqing Huang\*, Rupam Patir\*, Keyan Guo, Wanda Guo, Guofei Gu, Haipeng Cai, Hongxin Hu
+  *FutureG Workshop, **NDSS 2025***
 
 - **Understanding and Detecting Remote Infection on Linux-based IoT Devices**
-  *ACM AsiaCCS, 2022* — 🏆 **Best Paper Award**
   Qiqing Huang\*, Hongda Li\*, Fei Ding, Hongxin Hu, Long Cheng, Guofei Gu, Ziming Zhao
+  *ACM **AsiaCCS 2022**, Nagasaki* — 🏆 **Best Paper Award**
+  [![DOI](https://img.shields.io/badge/DOI-10.1145%2F3488932.3517423-0066cc?style=flat-square)](https://doi.org/10.1145/3488932.3517423)
 
-- **A Zero Trust Architecture for Connected and Autonomous Vehicles**
-  *IEEE Internet Computing, 2023*
+- **A Zero-Trust Architecture for Connected and Autonomous Vehicles**
   Qiqing Huang\*, John Anderson\*, Long Cheng, Hongxin Hu
+  *IEEE **Internet Computing**, 27(5), 2023*
+  [![DOI](https://img.shields.io/badge/DOI-10.1109%2FMIC.2023.3304893-0066cc?style=flat-square)](https://doi.org/10.1109/MIC.2023.3304893)
 
 - **BYOZ: Protecting BYOD Through Zero Trust Network Security**
-  *IEEE NAS, 2022*
   John Anderson, Qiqing Huang, Long Cheng, Hongxin Hu
+  *IEEE **NAS 2022***
 
 <sub>\* equal contribution / co-first authorship</sub>
 
