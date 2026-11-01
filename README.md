@@ -49,20 +49,20 @@ Ph.D. in Computer Science and Engineering, **University at Buffalo (SUNY)**
 
 Over-the-air vulnerabilities in commercial 5G basebands, LTE base stations, and open-source cellular stacks.
 
-| CVE | Target | Status |
-|---|---|---|
-| CVE-2026-55306 | Samsung Shannon baseband (Google Pixel 8a) | 🔴 **Critical** — confirmed by the Google Android Security Team; assigned, pending public disclosure |
-| CVE-2026-56990 | Samsung Shannon baseband (Google Pixel 8a) | 🟠 **High** — confirmed by the Google Android Security Team; assigned, pending public disclosure |
-| [CVE-2026-96274](https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-04) | Baicells Nova 430H eNodeB — **LTE base station** | CVSS v4.0 **8.3** / v3.1 7.4, CWE-248. Published by CISA as **ICSA-26-272-04**, Sep 2026 — *"Qiqing Huang reported this vulnerability to CISA."* |
-| [CVE-2026-20527](https://nvd.nist.gov/vuln/detail/CVE-2026-20527) | MediaTek 5G baseband | Published, MediaTek Product Security Bulletin, Oct 2026 |
-| [CVE-2026-20504](https://nvd.nist.gov/vuln/detail/CVE-2026-20504) | MediaTek 5G baseband | Published, MediaTek PSB, Sep 2026 |
-| [CVE-2026-20503](https://nvd.nist.gov/vuln/detail/CVE-2026-20503) | MediaTek 5G baseband | Published, MediaTek PSB, Sep 2026 |
-| [CVE-2025-54628](https://nvd.nist.gov/vuln/detail/CVE-2025-54628) | HarmonyOS / EMUI communication module | CVSS 7.5, Huawei security bulletin, Aug 2025 |
-| [CVE-2025-47384](https://nvd.nist.gov/vuln/detail/CVE-2025-47384) | Qualcomm 5G baseband | Pre-authentication RRC reachable assertion; patched, in NVD |
-| [CVE-2025-20703](https://nvd.nist.gov/vuln/detail/CVE-2025-20703) | MediaTek 5G baseband | Patched |
-| [CVE-2025-20666](https://nvd.nist.gov/vuln/detail/CVE-2025-20666) | MediaTek 5G baseband | Patched |
-| [CVE-2025-20644](https://nvd.nist.gov/vuln/detail/CVE-2025-20644) | MediaTek 5G baseband | Patched |
-| [CVE-2025-63356](https://nvd.nist.gov/vuln/detail/CVE-2025-63356) | OpenAirInterface 5G UE | Upstream patch merged |
+| CVE | Target | Severity *(as rated by)* | Details |
+|---|---|---|---|
+| CVE-2026-55306 | Samsung Shannon baseband — Google Pixel 8a | 🔴 **Critical** *(Google Android Security Team)* | Assigned; pending public disclosure |
+| CVE-2026-56990 | Samsung Shannon baseband — Google Pixel 8a | 🟠 **High** *(Google Android Security Team)* | Assigned; pending public disclosure |
+| [CVE-2026-96274](https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-04) | Baicells Nova 430H eNodeB — **LTE base station** | 🟠 **8.3 High** *(CISA, CVSS v4.0; v3.1 7.4)* | CISA advisory **ICSA-26-272-04**, Sep 2026 · CWE-248 — *"Qiqing Huang reported this vulnerability to CISA."* |
+| [CVE-2026-20527](https://nvd.nist.gov/vuln/detail/CVE-2026-20527) | MediaTek 5G baseband — modem | 🟠 **High** *(MediaTek PSB)* | Oct 2026 · CWE-129 improper array index validation · **57 chipsets** |
+| [CVE-2026-20504](https://nvd.nist.gov/vuln/detail/CVE-2026-20504) | MediaTek 5G baseband — modem | 🟠 **High** *(MediaTek PSB)* | Sep 2026 · CWE-617 reachable assertion · 19 chipsets |
+| [CVE-2026-20503](https://nvd.nist.gov/vuln/detail/CVE-2026-20503) | MediaTek 5G baseband — modem | 🟠 **High** *(MediaTek PSB)* | Sep 2026 · CWE-617 reachable assertion · **57 chipsets** |
+| [CVE-2025-54628](https://nvd.nist.gov/vuln/detail/CVE-2025-54628) | HarmonyOS / EMUI communication module | 🟠 **7.5 High** *(NVD, CVSS v3.1)* | Huawei security bulletin, Aug 2025 · CWE-118 |
+| [CVE-2025-20703](https://nvd.nist.gov/vuln/detail/CVE-2025-20703) | MediaTek 5G baseband — modem | 🟠 **High** *(MediaTek PSB)* | Sep 2025 · CWE-125 out-of-bounds read |
+| [CVE-2025-20666](https://nvd.nist.gov/vuln/detail/CVE-2025-20666) | MediaTek 5G baseband — modem | 🟠 **High** *(MediaTek PSB; NVD 7.5)* | May 2025 · CWE-617 reachable assertion |
+| [CVE-2025-20644](https://nvd.nist.gov/vuln/detail/CVE-2025-20644) | MediaTek 5G baseband — modem | 🟠 **High** *(MediaTek PSB)* | Mar 2025 |
+| [CVE-2025-47384](https://nvd.nist.gov/vuln/detail/CVE-2025-47384) | Qualcomm 5G baseband | **6.5 Medium** *(Qualcomm, CNA)* | Pre-authentication RRC reachable assertion; patched · CWE-617 |
+| [CVE-2025-63356](https://nvd.nist.gov/vuln/detail/CVE-2025-63356) | OpenAirInterface 5G UE | — | Upstream patch merged |
 
 ---
 
