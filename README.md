@@ -4,7 +4,7 @@
 
 Deepest work to date is on cellular: over-the-air attacks against 4G/5G basebands and base stations.
 
-Ph.D. in Computer Science and Engineering, **University at Buffalo (SUNY)**
+Ph.D. in Computer Science and Engineering, **University at Buffalo (SUNY)** · advised by **Hongxin Hu**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-qiqing--huang-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/qiqing-huang)
 ![Focus](https://img.shields.io/badge/focus-vulnerability%20research%20%7C%20firmware%20RE%20%7C%20protocols-1f6feb?style=flat)
