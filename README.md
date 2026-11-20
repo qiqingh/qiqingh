@@ -16,6 +16,7 @@ Ph.D. in Computer Science and Engineering, **University at Buffalo (SUNY)** · a
 - **Correct in Isolation, Broken in Translation: Exploiting Cross-Schema Vulnerabilities in LTE and 5G Base Stations**
   Qiqing Huang, Xingyu Wang, Xiaofeng Chen, Hongxin Hu
   *IEEE Symposium on Security and Privacy (**S&P 2027**), Montreal* — **first author**
+  🏅 Artifact Evaluation: **Available · Functional · Reproduced**
 
 - **Semantics Over Syntax: Uncovering Pre-Authentication 5G Baseband Vulnerabilities**
   Qiqing Huang, Xingyu Wang, Wanda Guo, Guofei Gu, Hongxin Hu
